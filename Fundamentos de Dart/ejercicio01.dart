@@ -1,7 +1,7 @@
 /* Fundamentos de Dart */
 /* ------------------- */
 
-/*Proyecto 01 */
+/* Proyecto 01 */
 
 /* Programa que calcula el área yel perímetro de un cuadrado */
 
