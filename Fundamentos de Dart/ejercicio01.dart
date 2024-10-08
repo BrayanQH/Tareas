@@ -3,7 +3,7 @@
 
 /* Proyecto 01 */
 
-/* Programa que calcula el área yel perímetro de un cuadrado */
+/* Programa que calcula el área y el perímetro de un cuadrado */
 
 
 import 'dart:io';
