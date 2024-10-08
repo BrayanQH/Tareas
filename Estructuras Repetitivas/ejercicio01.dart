@@ -1,4 +1,4 @@
-/* Estrucuturas Repetitivas */
+/* Estructuras Repetitivas */
 /* ------------------------ */
 
 /* Ejercicio 01 */
